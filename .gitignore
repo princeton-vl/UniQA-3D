@@ -1,0 +1,6 @@
+**/__pycache__/
+*.npz
+**/.DS_Store
+
+benchmark_data/relative_depth/kitti_1000_rgb
+benchmark_data/relative_depth/kitti_500_flipud_rgb
