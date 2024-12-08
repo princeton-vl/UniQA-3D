@@ -30,6 +30,17 @@
   </a>
 </p>
 
+## Citation
+If you use our benchmark or data in your work, please cite our 3DV paper:
+```
+@article{zuo2025towards,
+  title={Towards Foundation Models for 3D Vision: How Close Are We?},
+  author={Zuo, Yiming and Kayan, Karhan and Wang, Maggie and Jeon, Kevin and Deng, Jia and Griffiths, Thomas L},
+  journal={International Conference on 3D Vision (3DV)},
+  year={2025}
+}
+```
+
 ## Download the Benchmark
 
 Download the pre-generated image and question pairs in [this google drive link](https://drive.google.com/drive/folders/1zzz4GhJ_K3hXwCglpfxCeAmLPQYBK1kf?usp=sharing). We also provide instructions on how to generate the benchmark from the original datasets [here](benchmark_generation.md).
